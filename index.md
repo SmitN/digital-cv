@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# OBJECTIVE
 
-You can use the [editor on GitHub](https://github.com/SmitN/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+``` 
+To work and contribute in a promising & competitive environment where I can offer my technical, 
+interpersonal & management skills thereby creating a huge space for myself and my organization.
+```
+## TECHNICAL SKILLS
+```
+Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
+Hardware:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lenovo / IBM, HP ProLiant DL/MS series servers, Dell PowerEdge Servers, NetApp server, Cisco 
 
-### Markdown
+Switches, EMC, HP-3PAR, Equalogic, Mellonx, Check Point, F5 Appliances.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Languages: Python, Bash Scripting 
+```
+# Training: 
+```  -	AWS Cloud Practitioner (Linux Academy)
+  -	Python3 for System Administrators (Linux Academy)
+  -	RHCSA 200 (Red Hat 7)
+  -	Google IT Automation with Python (Coursera)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmitN/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Tools - Technology:
+*```Configuration Management```*:  Puppet, Ansible, Chef (working knowledge) Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog
+* ```Backup```*: Veritas Netbackup, Cohesity
+ Code Versioning: Git, GitLab
+ Reporting /Documentation: Sharepoint, Confluence, Service-Now, Remedy
+ Financial Applications:             Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         FXCM: { FastMatch, MetaTrader },                                    CME / BrokerTec : { Genium / SMARTS, GLOBEX }
+```
