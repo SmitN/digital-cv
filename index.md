@@ -24,6 +24,7 @@ Languages: Python, Bash Scripting
 ```
 
 **Tools - Technology**
+```
 *```Configuration Management```*:  Puppet, Ansible, Chef (working knowledge) Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog
 *```Backup```*: Veritas Netbackup, Cohesity
 *```Code Versioning```*: Git, GitLab
@@ -32,3 +33,4 @@ Languages: Python, Bash Scripting
    -  Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
    -  FXCM: { FastMatch, MetaTrader }, 
    - CME / BrokerTec : { Genium / SMARTS, GLOBEX }
+```
