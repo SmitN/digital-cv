@@ -4,7 +4,7 @@
 To work and contribute in a promising & competitive environment where I can offer my technical, 
 interpersonal & management skills thereby creating a huge space for myself and my organization.
 ```
-## TECHNICAL SKILLS
+**TECHNICAL SKILLS **
 ```
 Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
 Hardware:
@@ -15,8 +15,9 @@ Switches, EMC, HP-3PAR, Equalogic, Mellonx, Check Point, F5 Appliances.
 
 Languages: Python, Bash Scripting 
 ```
-# Training: 
-```  -	AWS Cloud Practitioner (Linux Academy)
+**Training** 
+```  
+  -	AWS Cloud Practitioner (Linux Academy)
   -	Python3 for System Administrators (Linux Academy)
   -	RHCSA 200 (Red Hat 7)
   -	Google IT Automation with Python (Coursera)
