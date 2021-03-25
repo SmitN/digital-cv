@@ -4,7 +4,7 @@
 To work and contribute in a promising & competitive environment where I can offer my technical, 
 interpersonal & management skills thereby creating a huge space for myself and my organization.
 ```
-**TECHNICAL SKILLS **
+**TECHNICAL SKILLS**
 ```
 Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
 Hardware:
@@ -23,10 +23,13 @@ Languages: Python, Bash Scripting
   -	Google IT Automation with Python (Coursera)
 ```
 
-# Tools - Technology:
+**Tools - Technology**
 *```Configuration Management```*:  Puppet, Ansible, Chef (working knowledge) Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog
-* ```Backup```*: Veritas Netbackup, Cohesity
- Code Versioning: Git, GitLab
- Reporting /Documentation: Sharepoint, Confluence, Service-Now, Remedy
- Financial Applications:             Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         FXCM: { FastMatch, MetaTrader },                                    CME / BrokerTec : { Genium / SMARTS, GLOBEX }
+*```Backup```*: Veritas Netbackup, Cohesity
+*```Code Versioning```*: Git, GitLab
+*```Reporting /Documentation```*: Sharepoint, Confluence, Service-Now, Remedy
+*```Financial Applications```*:
+            -  Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
+              -  FXCM: { FastMatch, MetaTrader }, 
+   - CME / BrokerTec : { Genium / SMARTS, GLOBEX }
 ```
