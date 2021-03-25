@@ -29,7 +29,6 @@ Languages: Python, Bash Scripting
 *```Code Versioning```*: Git, GitLab
 *```Reporting /Documentation```*: Sharepoint, Confluence, Service-Now, Remedy
 *```Financial Applications```*:
-            -  Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
-              -  FXCM: { FastMatch, MetaTrader }, 
+   -  Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
+   -  FXCM: { FastMatch, MetaTrader }, 
    - CME / BrokerTec : { Genium / SMARTS, GLOBEX }
-```
