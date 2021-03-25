@@ -28,7 +28,7 @@ Languages: Python, Bash Scripting
 - Configuration Management:  Puppet, Ansible, Chef (working knowledge) Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog
 - Backup: Veritas Netbackup, Cohesity
 - Code Versioning: Git, GitLab
-- Reporting /Documentation: Sharepoint, Confluence, Service-Now, Remedy
+- Reporting / Documentation: Sharepoint, Confluence, Service-Now, Remedy
 - Financial Applications:
    -  Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
    -  FXCM: { FastMatch, MetaTrader }, 
