@@ -7,16 +7,17 @@ interpersonal & management skills thereby creating a huge space for myself and m
 ### TECHNICAL SKILLS
 ```
 Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
-Hardware Platforms:
-        - HP ProLiant DL/MS Series - G1:G10
-        - DELL/EMC
-        - IBM / LENOVO
-        - CISCO NEXUS SWITCHES
-        - HP-3PAR / NETAPP / EMC / EQALOGIC
-        - F5 & CHECK POINT APPLIANCES
-        - IBM / LENOVO
 
-Languages: Bash Scripting & PYTHON
+HARDWARE PLATFORMS:
+   - HP ProLiant DL/MS Series - G1:G10
+   - DELL/EMC
+   - IBM / LENOVO
+   - CISCO NEXUS SWITCHES
+   - HP-3PAR / NETAPP / EMC / EQALOGIC
+   - F5 & CHECK POINT APPLIANCES
+   - IBM / LENOVO
+
+LANGAUGEs: Bash, Python
 ```
  
 ### TRAINING
@@ -31,8 +32,8 @@ Languages: Bash Scripting & PYTHON
 ```
 - Configuration Management:  Puppet, Ansible, Chef (working knowledge), Confluent 
 - Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog 
-- Backup: Veritas Netbackup, Cohesity</pre>
-- Code Versioning: Git, GitLab</pre>
+- Backup: Veritas Netbackup, Cohesity
+- Code Versioning: Git, GitLab
 - Reporting / Documentation: Sharepoint, Confluence, Service-Now, Remedy
 - Financial Applications:
    - Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
