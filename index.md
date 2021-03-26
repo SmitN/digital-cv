@@ -19,7 +19,7 @@ Hardware Platforms:
 Languages: Bash Scripting & PYTHON
 ```
  
-### Training
+### TRAINING
 ```  
  - AWS Cloud Practitioner (Linux Academy)
  - Python3 for System Administrators (Linux Academy)
@@ -27,9 +27,9 @@ Languages: Bash Scripting & PYTHON
  - Google IT Automation with Python (Coursera)
 ```
 
-### Tools - Technology
+### TOOLS & TECHNOLOGIES:
 ```
-- Configuration Management:  Puppet, Ansible, Chef (working knowledge) 
+- Configuration Management:  Puppet, Ansible, Chef (working knowledge), Confluent 
 - Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog 
 - Backup: Veritas Netbackup, Cohesity</pre>
 - Code Versioning: Git, GitLab</pre>
