@@ -30,5 +30,9 @@ Languages: Python, Bash Scripting
 - Financial Applications:
    -  Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
    -  FXCM: { FastMatch, MetaTrader }, 
-   - CME / BrokerTec : { Genium / SMARTS, GLOBEX }
+   -  CME / BrokerTec : { Genium / SMARTS, GLOBEX }
 ```
+## DETAILED EXPRIENCE
+**SR.SYSTEMS ENGINEER - CME GROUP, NEW YORK, NY
+**SYSTEMS ENGINEER - FXCM GLOBAL SERVICES, NEW YORK, NY
+**DATA CENTER ASSOCIATE - VIRTU FINANCIAL (FORMELY KCG HOLDINGS) - JERSEY CITY, NJ 
