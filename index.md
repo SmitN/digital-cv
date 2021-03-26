@@ -8,7 +8,7 @@ interpersonal & management skills thereby creating a huge space for myself and m
 ```
 Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
 
-#Hardware:
+<b> Hardware:
 Lenovo / IBM, HP ProLiant DL/MS series servers, Dell PowerEdge Servers, NetApp server, Cisco 
 Switches, EMC, HP-3PAR, Equalogic, Mellonx, Check Point, F5 Appliances.
 
