@@ -14,10 +14,10 @@ Languages: Python, Bash Scripting
 ```
 **Training** 
 ```  
-  -	AWS Cloud Practitioner (Linux Academy)
-  -	Python3 for System Administrators (Linux Academy)
-  -	RHCSA 200 (Red Hat 7)
-  -	Google IT Automation with Python (Coursera)
+ - AWS Cloud Practitioner (Linux Academy)
+ - Python3 for System Administrators (Linux Academy)
+ - RHCSA 200 (Red Hat 7)
+ - Google IT Automation with Python (Coursera)
 ```
 
 **Tools - Technology**
@@ -28,9 +28,9 @@ Languages: Python, Bash Scripting
 - Code Versioning: Git, GitLab
 - Reporting / Documentation: Sharepoint, Confluence, Service-Now, Remedy
 - Financial Applications:
-   -  Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
-   -  FXCM: { FastMatch, MetaTrader }, 
-   -  CME / BrokerTec : { Genium / SMARTS, GLOBEX }
+   - Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
+   - FXCM: { FastMatch, MetaTrader }, 
+   - CME / BrokerTec : { Genium / SMARTS, GLOBEX }
 ```
 #### DETAILED EXPRIENCE
 **SR.SYSTEMS ENGINEER - CME GROUP, NEW YORK, NY**
