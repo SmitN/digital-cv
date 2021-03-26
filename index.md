@@ -8,11 +8,8 @@ interpersonal & management skills thereby creating a huge space for myself and m
 ```
 Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
 Hardware:
-
 Lenovo / IBM, HP ProLiant DL/MS series servers, Dell PowerEdge Servers, NetApp server, Cisco 
-
 Switches, EMC, HP-3PAR, Equalogic, Mellonx, Check Point, F5 Appliances.
-
 Languages: Python, Bash Scripting 
 ```
 **Training** 
@@ -25,7 +22,8 @@ Languages: Python, Bash Scripting
 
 **Tools - Technology**
 ```
-- Configuration Management:  Puppet, Ansible, Chef (working knowledge) Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog
+- Configuration Management:  Puppet, Ansible, Chef (working knowledge) 
+- Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog
 - Backup: Veritas Netbackup, Cohesity
 - Code Versioning: Git, GitLab
 - Reporting / Documentation: Sharepoint, Confluence, Service-Now, Remedy
