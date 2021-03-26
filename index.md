@@ -5,15 +5,14 @@ To work and contribute in a promising & competitive environment where I can offe
 interpersonal & management skills thereby creating a huge space for myself and my organization.
 ```
 **TECHNICAL SKILLS**
-```
+<pre>
 Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
-
-<b> Hardware:
+<b>Hardware:<b>
 Lenovo / IBM, HP ProLiant DL/MS series servers, Dell PowerEdge Servers, NetApp server, Cisco 
 Switches, EMC, HP-3PAR, Equalogic, Mellonx, Check Point, F5 Appliances.
 
-#Languages: Python, Bash Scripting 
-```
+<b>Languages:<b> Python, Bash Scripting 
+</pre>
 **Training** 
 ```  
  - AWS Cloud Practitioner (Linux Academy)
@@ -23,17 +22,17 @@ Switches, EMC, HP-3PAR, Equalogic, Mellonx, Check Point, F5 Appliances.
 ```
 
 **Tools - Technology**
-```
-- Configuration Management:  Puppet, Ansible, Chef (working knowledge) 
-- Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog
-- Backup: Veritas Netbackup, Cohesity
-- Code Versioning: Git, GitLab
-- Reporting / Documentation: Sharepoint, Confluence, Service-Now, Remedy
-- Financial Applications:
+<pre>
+- <b>Configuration Management:<b>  Puppet, Ansible, Chef (working knowledge) 
+- <b>Monitoring:<b> Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog
+- <b>Backup:<b> Veritas Netbackup, Cohesity
+- <b>Code Versioning:<b> Git, GitLab
+- <b>Reporting / Documentation:<b> Sharepoint, Confluence, Service-Now, Remedy
+- <b>Financial Applications:<b>
    - Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
    - FXCM: { FastMatch, MetaTrader }, 
    - CME / BrokerTec : { Genium / SMARTS, GLOBEX }
-```
+</pre>
 #### DETAILED EXPRIENCE
 **SR.SYSTEMS ENGINEER - CME GROUP, NEW YORK, NY**
 ```
