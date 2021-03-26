@@ -33,7 +33,7 @@ Languages: Python, Bash Scripting
    -  CME / BrokerTec : { Genium / SMARTS, GLOBEX }
 ```
 ## DETAILED EXPRIENCE
-***SR.SYSTEMS ENGINEER - CME GROUP, NEW YORK, NY
+**SR.SYSTEMS ENGINEER - CME GROUP, NEW YORK, NY**
 ```
 CME GROUP { IN PROGRESS }
 ```
