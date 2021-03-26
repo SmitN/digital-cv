@@ -24,12 +24,12 @@ Switches, EMC, HP-3PAR, Equalogic, Mellonx, Check Point, F5 Appliances.
 
 **Tools - Technology**
 
-- <pre><b>Configuration Management:<b>  Puppet, Ansible, Chef (working knowledge) </pre>
-- <pre><b>Monitoring:<b> Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog </pre>
-- <pre><b>Backup:<b> Veritas Netbackup, Cohesity</pre>
-- <pre><b>Code Versioning:<b> Git, GitLab</pre>
-- <pre><b>Reporting / Documentation:<b> Sharepoint, Confluence, Service-Now, Remedy</pre>
-- <pre><b>Financial Applications:<b>
+- <pre><b>Configuration Management:<b>  Puppet, Ansible, Chef (working knowledge) 
+- <b>Monitoring:<b> Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog 
+- <b>Backup:<b> Veritas Netbackup, Cohesity</pre>
+- <b>Code Versioning:<b> Git, GitLab</pre>
+- <b>Reporting / Documentation:<b> Sharepoint, Confluence, Service-Now, Remedy
+- <b>Financial Applications:<b>
    - Knight: { Knight Direct, Bondpoint, Hotspot, ETG},                                                         
    - FXCM: { FastMatch, MetaTrader }, 
    - CME / BrokerTec : { Genium / SMARTS, GLOBEX }
