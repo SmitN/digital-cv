@@ -1,10 +1,11 @@
-# OBJECTIVE
+### OBJECTIVE
 
 ``` 
 To work and contribute in a promising & competitive environment where I can offer my technical, 
 interpersonal & management skills thereby creating a huge space for myself and my organization.
 ```
-# TECHNICAL SKILLS
+### TECHNICAL SKILLS
+
 ```
 Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
 Hardware Platforms:
@@ -19,7 +20,8 @@ Hardware Platforms:
 Languages: Bash Scripting & PYTHON
 ```
  
-# Training
+### Training
+
 ```  
  - AWS Cloud Practitioner (Linux Academy)
  - Python3 for System Administrators (Linux Academy)
@@ -27,7 +29,8 @@ Languages: Bash Scripting & PYTHON
  - Google IT Automation with Python (Coursera)
 ```
 
-# Tools - Technology
+### Tools - Technology
+
 ```
 - Configuration Management:  Puppet, Ansible, Chef (working knowledge) 
 - Monitoring: Nagios, Graphite, HP-OneView, Zenoss, Splunk, Datadog 
