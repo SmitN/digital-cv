@@ -7,10 +7,12 @@ interpersonal & management skills thereby creating a huge space for myself and m
 **TECHNICAL SKILLS**
 ```
 Infrastructure operations, Linux engineering and DevOps concepts within Financial Services. 
-Hardware:
+
+#Hardware:
 Lenovo / IBM, HP ProLiant DL/MS series servers, Dell PowerEdge Servers, NetApp server, Cisco 
 Switches, EMC, HP-3PAR, Equalogic, Mellonx, Check Point, F5 Appliances.
-Languages: Python, Bash Scripting 
+
+#Languages: Python, Bash Scripting 
 ```
 **Training** 
 ```  
