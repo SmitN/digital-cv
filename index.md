@@ -32,7 +32,7 @@ Languages: Python, Bash Scripting
    -  FXCM: { FastMatch, MetaTrader }, 
    -  CME / BrokerTec : { Genium / SMARTS, GLOBEX }
 ```
-### DETAILED EXPRIENCE
+#### DETAILED EXPRIENCE
 **SR.SYSTEMS ENGINEER - CME GROUP, NEW YORK, NY**
 ```
 CME GROUP { IN PROGRESS }
